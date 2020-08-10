@@ -1,0 +1,248 @@
+{
+  "provincias": [
+    {
+      1: "San José",
+      2: "Alajuela",
+      3: "Cartago",
+      4: "Heredia",
+      6: "Puntarenas"
+    }
+  ],
+  "cantones": [
+    {
+      "1": [
+        "San José",
+        "Escazú",
+        "Desamparados",
+        "Aserrí",
+        "Goicoechea",
+        "Santa Ana",
+        "Alajuelita",
+        "Vásquez de Coronado",
+        "Tibás",
+        "Moravia",
+        "Montes de Oca",
+        "Curridabat"
+      ],
+      "2": [
+        "Alajuela",
+        "Naranjo"
+      ],
+      "3": [
+        "La Unión"
+      ],
+      "4": [
+        "Heredia",
+        "Barva",
+        "Santo Domingo",
+        "San Isidro",
+        "Flores",
+        "San Pablo"
+      ],
+      "6": [
+        "Puntarenas",
+        "Golfito",
+        "Garabito",
+        "Corredores"
+      ]
+    }
+  ],
+  "distritos": [
+    [
+      {
+        1: "Carmen",
+        2: "Merced",
+        3: "Hospital",
+        4: "Catedral",
+        5: "Zapote",
+        6: "San Francisco De Dos Rios",
+        7: "Uruca",
+        8: "Mata Redonda",
+        9: "Pavas",
+        10: "Hatillo",
+        11: "San Sebastián"
+      },
+      {
+        1: "Escazú",
+        2: "San Antonio",
+        3: "San Rafael"
+      },
+      {
+        1: "Desamparados",
+        2: "San Miguel",
+        3: "San Juan De Dios",
+        4: "San Rafael Arriba",
+        5: "San Rafael Abajo",
+        6: "San Antonio",
+        8: "Patarra",
+        10: "Rosario",
+        11: "Damas",
+        12: "Gravilias",
+        13: "Los Guido"
+      },
+      {
+        1: "Aserrí",
+        2: "Tarbaca",
+        3: "Vuelta De Jorco",
+        4: "San Gabriel",
+        5: "Legua",
+        6: "Monterrey",
+        7: "Salitrillos"
+      },
+      {
+        1: "Guadalupe",
+        2: "San Francisco",
+        3: "Calle Blancos",
+        4: "Mata De Platano",
+        5: "Ipís",
+        6: "Rancho Redondo",
+        7: "Purral"
+      },
+      {
+        1: "Santa Ana",
+        2: "Salitral",
+        3: "Pozos",
+        4: "Uruca",
+        5: "Piedades",
+        6: "Brasil"
+      },
+      {
+        1: "Alajuelita",
+        2: "San Josecito",
+        3: "San Antonio",
+        4: "Concepción",
+        5: "San Felipe"
+      },
+      {
+        1: "San Isidro",
+        2: "San Rafael",
+        3: "Dulce Nombre De Jesus",
+        4: "Patalillo",
+        5: "Cascajal"
+      },
+      {
+        1: "San Juan",
+        2: "Cinco Esquinas",
+        3: "Anselmo Llorente",
+        4: "Leon Xiii",
+        5: "Colima"
+      },
+      {
+        1: "San Vicente",
+        2: "San Jeronimo",
+        3: "La Trinidad"
+      },
+      {
+        1: "San Pedro",
+        2: "Sabanilla",
+        3: "Mercedes",
+        4: "San Rafael"
+      },
+      {
+        1: "Curridabat",
+        2: "Granadilla",
+        3: "Sanchez",
+        4: "Tirrases"
+      }
+    ],
+    [
+      {
+        1: "Alajuela",
+        2: "San José",
+        3: "Carrizal",
+        4: "San Antonio",
+        5: "Guácima",
+        6: "San Isidro",
+        7: "Sabanilla",
+        8: "San Rafael",
+        9: "Rio Segundo",
+        10: "Desamparados",
+        11: "Turrucares",
+        12: "Tambor",
+        13: "Garita"
+      },
+      {
+        1: "Naranjo",
+        2: "San Miguel",
+        3: "San Miguel",
+        4: "Cirrí Sur",
+        5: "San Jerónimo",
+        6: "San Juan",
+        7: "El Rosario"
+      }
+    ],
+    [
+      {
+        1: "Tres Rios",
+        2: "San Diego",
+        3: "San Juan",
+        4: "San Rafael",
+        5: "Concepción",
+        6: "Dulce Nombre",
+        7: "San Ramón",
+        8: "Rio Azul"
+      }
+    ],
+    [
+      {
+        1: "Heredia",
+        2: "Mercedes",
+        3: "San Francisco",
+        4: "Ulloa",
+        5: "Varablanca"
+      },
+      {
+        1: "Barva",
+        2: "San Pedro",
+        3: "San Pablo",
+        4: "San Roque",
+        5: "Santa Lucía",
+        6: "San José de la Montaña"
+      },
+      {
+        1: "Santo Domingo",
+        2: "San Vicente",
+        3: "San Miguel",
+        4: "Paracito",
+        5: "Santo Tomás",
+        6: "Santo Tomás",
+        7: "Tures",
+        8: "Para"
+      },
+      {
+        1: "San Isidro",
+        2: "San José",
+        3: "Concepción",
+        4: "San Francisco"
+      },
+      {
+        1: "San Joaquín",
+        2: "Barrantes",
+        3: "Llorente"
+      },
+      {
+        1: "San Pablo",
+        2: "Rincon De Sabanilla"
+      }
+    ],
+    [
+      {
+        8: "Barranca",
+        12: "Chacarita"
+      },
+      {
+        4: "Pavón"
+      },
+      {
+        2: "Sabalito",
+        3: "Aguabuena"
+      },
+      {
+        1: "Corredor",
+        2: "La Cuesta",
+        3: "Canoas",
+        4: "Laurel"
+      }
+    ]
+  ]
+}
